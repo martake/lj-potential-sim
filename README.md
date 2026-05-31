@@ -1,5 +1,7 @@
 # LJ Potential Simulator
 
+![画面イメージ](docs/sample.gif)
+
 **Demo: https://martake.github.io/lj-potential-sim/**
 
 レナード・ジョーンズ（LJ）ポテンシャルの概念再現シミュレータです。
