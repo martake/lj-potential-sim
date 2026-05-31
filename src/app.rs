@@ -22,7 +22,7 @@ impl eframe::App for SimulatorApp {
         egui::Panel::left("params_panel")
             .default_size(250.0)
             .show_inside(ui, |ui| {
-                ui.heading("シミュレーション パラメータ");
+                ui.heading("Simulation Parameters");
                 ui.add_space(4.0);
 
                 let prev_count = self.params.atom_count;

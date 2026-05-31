@@ -25,7 +25,7 @@ impl Default for SimParams {
             dt: 0.016,
             damping: 0.999,
             max_velocity: 200.0,
-            atom_count: 8,
+            atom_count: 16,
             paused: false,
         }
     }
